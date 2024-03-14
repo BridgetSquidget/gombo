@@ -1,0 +1,9 @@
+id: gombo
+title: General Organization of Marine Bioluminescent Organs
+github_org: BridgetSquidget
+repo: gombo
+import_group:
+  products:
+    - id: ro
+    - id: bfo
+    - id: pato
